@@ -1,0 +1,15 @@
+.img {
+  width: 25px;
+}
+.item-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.list-item-container {
+  list-style-type: none;
+}
+.btn {
+  border: none;
+  background-color: #ffffff;
+}
